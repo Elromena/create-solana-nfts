@@ -1,5 +1,3 @@
-[![Awesome](images/awesome.svg)](https://github.com/sindresorhus/awesome)
-
 # 🦄 Awesome Solana NFTs
 
 A curated list of resources for builders / artists hacking NFTs on Solana.
@@ -124,10 +122,9 @@ If you see something missing - please submit a PR 🙏
 - [Solanalysis Upcoming Drops](https://solanalysis.com/upcoming) - SOL specific drops.
 - [Next Drop](https://nextdrop.is/upcoming?chain=solana) - multi-chain drop info, includes Solana (filterable)
 - [Non Fungi](https://www.non-fungi.com/solana-nft-drops/) - multi-chain drop info, includes Solana (filterable)
-- [NFT Calendar](https://nftcalendar.io/b/solana/) - multi-chain drop info, includes Solana (filterable)
 - [Ape O'Clock](https://www.apeoclock.com/all-sol-launches/) - multi-chain drop info, includes Solana (filterable)
 - [NearingNFT](https://www.nearingnft.net/) - multi-chain drop info, includes Solana (filterable)
-- [Rarity Tools](https://rarity.tools/upcoming/) - multi-chain drop info, includes Solana
+- [Ebutemetaverse](https://ebutemetaverse.com/calendar/) - multi-chain drop info, includes Solana
 - [NFT Evening](https://nftevening.com/calendar/) - multi-chain drop info, includes Solana
 - [CoinMarketCap](https://coinmarketcap.com/nft/upcoming/) - multi-chain drop info, includes Solana
 - [NFT Drop Scanner](https://nftdropscanner.com) - multi-chain drop info, includes Solana
